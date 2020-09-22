@@ -1,0 +1,16 @@
+- name: Syntax
+  url: /css/syntax.html
+- name: Selectors
+  url: /css/selectors.html
+- name: Colors
+  url: /css/colors.html
+- name: Backgrounds
+  url: /css/backgrounds.html
+- name: Margins
+  url: /css/margins.html
+- name: Sizes
+  url: /css/sizes.html
+- name: Texts
+  url: /css/texts.html
+- name: Fonts
+  url: /css/fonts.html

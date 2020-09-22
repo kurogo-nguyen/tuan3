@@ -1,0 +1,14 @@
+- name: Headings
+  url: /html/headings.html
+- name: Paragraphs
+  url: /html/paragraphs.html
+- name: Links
+  url: /html/links.html
+- name: Images
+  url: /html/images.html
+- name: Lists
+  url: /html/lists.html
+- name: Tables
+  url: /html/tables.html
+- name: Forms
+  url: /html/forms.html

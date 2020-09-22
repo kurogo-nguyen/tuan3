@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Web development</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <div class="topnavbar">
+      {% include topnavbar.html %}
+    </div>
+    <div class="leftbar">
+      <ul>
+        {% include leftbar.html %}
+      </ul>
+    </div>
+    <div name="content">
+      <h2>{{page.category | upcase}} &nbsp; >>> &nbsp;  {{page.name | capitalize  | split: ".md"}} </h2>
+      <p>Lorem ipsum dolor sit amet.</p>
+    </div>
+
+    
+  </body>
+</html>

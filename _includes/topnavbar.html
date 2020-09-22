@@ -1,0 +1,5 @@
+    {% for item in site.data.topnavbar %}
+      <a href="{{ item.url }}" {% if page.url == item.link %}class="active"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}

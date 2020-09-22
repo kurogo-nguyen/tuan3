@@ -1,0 +1,20 @@
+- name: Syntax
+  url: /js/syntax.html
+- name: Variables
+  url: /js/variables.html
+- name: Operators
+  url: /js/operators.html
+- name: Data types
+  url: /js/data_types.html
+- name: Functions
+  url: /js/functions.html
+- name: Objects
+  url: /js/objects.html
+- name: Events
+  url: /js/events.html
+- name: Conditions
+  url: /js/conditions.html
+- name: Loops
+  url: /js/loops.html
+- name: RegExp
+  url: /js/regexp.html
